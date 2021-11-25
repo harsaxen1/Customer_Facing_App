@@ -71,5 +71,5 @@ Feature: Verify Dashboard component, user able to use the Dashboard
     Then I verify Inspiration by clicking on it from Cart Page
     Then I verify Shop by clicking on it from Inspiration Page
 
-  Scenario: Verify Account
+
 

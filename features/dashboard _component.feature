@@ -76,4 +76,4 @@ Feature: Verify Dashboard component, user able to use the Dashboard
     Then I verify Shop by clicking on it from Inspiration Page
 
 
-  Scenario: Verify Persis
+  Scenario: Verify Persis 

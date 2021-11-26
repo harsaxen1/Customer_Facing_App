@@ -1,18 +1,22 @@
+@dashboard
 Feature: Verify Dashboard component, user able to use the Dashboard
 
   Scenario:	Launch the Application and verify we landed on Homepage
     Given I land on Home screen
 
+    @wip
   Scenario: Verify Search bar is available, user is able to enter text
     Given I land on Home screen
-    Then I click on Search Bar and the Keypad will open
-    And I will search for "Kitchen Storage"
-    Then I click on Enter in Keypad for Search
+    Then  I click on Search Bar and the Keypad will open
+    And   I will search for "Kitchen Storage"
+    Then  I click on Enter in Keypad for Search
 
+      @welcome
   Scenario: Verify Welcome message on Dashboard
     Given I land on Home screen
-    Then I Verify "Welcome" message
+    Then  I Verify "Welcome" message
 
+        @store
   Scenario: Verify the Store Name, arrow for dropdown and timing
     Given I land on Home screen
     Then I Verify the Store Name "The San Francisco Store"
@@ -57,12 +61,12 @@ Feature: Verify Dashboard component, user able to use the Dashboard
     And   I verify to click back button on Terms of Use Web view which should Redirect back to Home Screen
 
 
-  Scenario: Verify Account Page
-    Given I land on Home screen
-    And   I Click on Account
-    When  I Click on Create an Account
-    And   I Click on First Name so that keypad will open
-    Then  I Send text to First Name "Praveen"
+#  Scenario: Verify Account Page
+#    Given I land on Home screen
+#    And   I Click on Account
+#    When  I Click on Create an Account
+#    And   I Click on First Name so that keypad will open
+#    Then  I Send text to First Name "Praveen"
 
   Scenario: Verify Persistent Navigation : User is able to tap on any icon from anywhere
     Given I land on Home screen
@@ -70,6 +74,5 @@ Feature: Verify Dashboard component, user able to use the Dashboard
     And  I verify Cart by clicking on it from Account Page
     Then I verify Inspiration by clicking on it from Cart Page
     Then I verify Shop by clicking on it from Inspiration Page
-
 
 

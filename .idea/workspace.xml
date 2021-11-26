@@ -4,44 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     <list default="true" id="89dd6eb4-42a4-428a-837e-039d5487baf2" name="Changes" comment="" />
-=======
-    <list default="true" id="89dd6eb4-42a4-428a-837e-039d5487baf2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
->>>>>>> Stashed changes
-=======
-    <list default="true" id="89dd6eb4-42a4-428a-837e-039d5487baf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Android.automation-new.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Android.automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/dashboard _component.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/step_definitions/dashboard_component.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/support/app-dev-release.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/support/env.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/support/hooks.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Android.automation.zip" beforeDir="false" />
-    </list>
->>>>>>> sprint1
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-=======
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
->>>>>>> sprint1
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -50,12 +18,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-<<<<<<< HEAD
-=======
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/features/step_definitions/dashboard_component.rb" root0="FORCE_HIGHLIGHTING" />
   </component>
->>>>>>> sprint1
   <component name="ProjectId" id="1zo4Qv0Q64mffNXDWE3VWNHGH6c" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -65,11 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="$USER_HOME$" />
-=======
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
->>>>>>> sprint1
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/Customer_Facing_App" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -85,14 +46,6 @@
       <recent name="C:\Users\prab2\Desktop\Android.automation-new\features\support" />
     </key>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Cucumber.Scenario: Verify Tertiary navigation (2)">
-    <configuration name="Scenario: Verify Tertiary navigation (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <module name="Android.automation" />
-      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-=======
   <component name="RubyModuleManagerSettings">
     <option name="blackListedRootsPaths">
       <list>
@@ -106,7 +59,6 @@
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
->>>>>>> sprint1
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -121,15 +73,9 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-<<<<<<< HEAD
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$PROJECT_DIR$/features/dashboard _component.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Verify Tertiary navigation$" />
-=======
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/dashboard _component.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Launch the Application and verify we landed on Homepage$" />
->>>>>>> sprint1
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -142,19 +88,11 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method v="2" />
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Scenario: Verify Tertiary navigation (2)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <module name="Android.automation" />
-      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-=======
     <configuration name="Scenario: Launch the Application and verify we landed on Homepage" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
->>>>>>> sprint1
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -169,15 +107,9 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-<<<<<<< HEAD
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$PROJECT_DIR$/features/dashboard _component.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Verify Tertiary navigation$" />
-=======
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/dashboard _component.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Launch the Application and verify we landed on Homepage$" />
->>>>>>> sprint1
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -190,19 +122,11 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method v="2" />
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Scenario: Verify Tertiary navigation" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <module name="Android.automation" />
-      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-=======
     <configuration name="Scenario: Verify Tertiary navigation (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
->>>>>>> sprint1
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -217,11 +141,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-<<<<<<< HEAD
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$PROJECT_DIR$/features/dashboard _component.feature" />
-=======
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/dashboard _component.feature" />
->>>>>>> sprint1
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Verify Tertiary navigation$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
@@ -236,19 +156,11 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method v="2" />
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Scenario: Verify Welcome message on Dashboard (3)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <module name="Android.automation" />
-      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-=======
     <configuration name="Scenario: Verify Tertiary navigation (2)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
->>>>>>> sprint1
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -263,15 +175,9 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-<<<<<<< HEAD
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$PROJECT_DIR$/features/dashboard _component.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Verify Welcome message on Dashboard$" />
-=======
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/dashboard _component.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Verify Tertiary navigation$" />
->>>>>>> sprint1
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -284,19 +190,11 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method v="2" />
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Scenario: Verify Welcome message on Dashboard (4)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <module name="Android.automation" />
-      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-=======
     <configuration name="dashboard _component.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
->>>>>>> sprint1
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -311,15 +209,9 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-<<<<<<< HEAD
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$PROJECT_DIR$/features/dashboard _component.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Verify Welcome message on Dashboard$" />
-=======
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/dashboard _component.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
->>>>>>> sprint1
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -334,19 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Cucumber.Scenario: Verify Tertiary navigation (2)" />
-        <item itemvalue="Cucumber.Scenario: Verify Tertiary navigation (1)" />
-        <item itemvalue="Cucumber.Scenario: Verify Tertiary navigation" />
-        <item itemvalue="Cucumber.Scenario: Verify Welcome message on Dashboard (4)" />
-        <item itemvalue="Cucumber.Scenario: Verify Welcome message on Dashboard (3)" />
-=======
         <item itemvalue="Cucumber.dashboard _component.feature" />
         <item itemvalue="Cucumber.Scenario: Launch the Application and verify we landed on Homepage (1)" />
         <item itemvalue="Cucumber.Scenario: Launch the Application and verify we landed on Homepage" />
         <item itemvalue="Cucumber.Scenario: Verify Tertiary navigation (2)" />
         <item itemvalue="Cucumber.Scenario: Verify Tertiary navigation (1)" />
->>>>>>> sprint1
       </list>
     </recent_temporary>
   </component>
@@ -397,11 +281,9 @@
       <workItem from="1637734494346" duration="656000" />
       <workItem from="1637740059085" duration="657000" />
       <workItem from="1637842687498" duration="1935000" />
-<<<<<<< HEAD
-=======
-      <workItem from="1637868987487" duration="302000" />
-      <workItem from="1637869692538" duration="18000" />
->>>>>>> sprint1
+      <workItem from="1637868987487" duration="1304000" />
+      <workItem from="1637903911791" duration="1203000" />
+      <workItem from="1637919789247" duration="4434000" />
     </task>
     <servers />
   </component>
@@ -435,11 +317,7 @@
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Account_Page__3_.rcov" NAME="Scenario: Verify Account Page (3) Coverage Results" MODIFIED="1637651780355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Tertiary_navigation__2_.rcov" NAME="Scenario: Verify Tertiary navigation (2) Coverage Results" MODIFIED="1637676918041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Order_pickup__2_.rcov" NAME="Scenario: Verify Order pickup (2) Coverage Results" MODIFIED="1637303579503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-<<<<<<< HEAD
-    <SUITE FILE_PATH="coverage/Android_automation_new@dashboard__component_feature.rcov" NAME="dashboard _component.feature Coverage Results" MODIFIED="1637665320554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-=======
-    <SUITE FILE_PATH="coverage/Android_automation_new@dashboard__component_feature.rcov" NAME="dashboard _component.feature Coverage Results" MODIFIED="1637869207114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
->>>>>>> sprint1
+    <SUITE FILE_PATH="coverage/Android_automation_new@dashboard__component_feature.rcov" NAME="dashboard _component.feature Coverage Results" MODIFIED="1637920108072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__3_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (3) Coverage Results" MODIFIED="1637069673322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_the_Store_Name__arrow_for_dropdown_and_timing__3_.rcov" NAME="Scenario: Verify the Store Name, arrow for dropdown and timing (3) Coverage Results" MODIFIED="1637263146793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__When_I_launch_the_application__Homepage_should_be_displayed.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed Coverage Results" MODIFIED="1637153085145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
@@ -449,10 +327,7 @@
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_all_4_secondary_services__3_.rcov" NAME="Scenario: Verify all 4 secondary services (3) Coverage Results" MODIFIED="1637665271298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Search_bar_is_available__user_is_able_to_enter_text__3_.rcov" NAME="Scenario: Verify Search bar is available, user is able to enter text (3) Coverage Results" MODIFIED="1637258460750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__4_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (4) Coverage Results" MODIFIED="1636358750808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-<<<<<<< HEAD
-=======
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Launch_the_Application_and_verify_we_landed_on_Homepage__1_.rcov" NAME="Scenario: Launch the Application and verify we landed on Homepage (1) Coverage Results" MODIFIED="1637869179899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
->>>>>>> sprint1
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__4_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (4) Coverage Results" MODIFIED="1637153193408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Tertiary_navigation__3_.rcov" NAME="Scenario: Verify Tertiary navigation (3) Coverage Results" MODIFIED="1637658929020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Account_Page__4_.rcov" NAME="Scenario: Verify Account Page (4) Coverage Results" MODIFIED="1637651842296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
@@ -470,10 +345,7 @@
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_all_4_secondary_services.rcov" NAME="Scenario: Verify all 4 secondary services Coverage Results" MODIFIED="1637664913462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_the_Store_Name__arrow_for_dropdown_and_timing__1_.rcov" NAME="Scenario: Verify the Store Name, arrow for dropdown and timing (1) Coverage Results" MODIFIED="1637262203738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Order_pickup__4_.rcov" NAME="Scenario: Verify Order pickup (4) Coverage Results" MODIFIED="1637305894168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-<<<<<<< HEAD
-=======
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Launch_the_Application_and_verify_we_landed_on_Homepage.rcov" NAME="Scenario: Launch the Application and verify we landed on Homepage Coverage Results" MODIFIED="1637869138519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
->>>>>>> sprint1
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Account_Page__5_.rcov" NAME="Scenario: Verify Account Page (5) Coverage Results" MODIFIED="1637651902547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__5_.rcov" NAME="@conversions: I should be able to open My conversions screen (5) Coverage Results" MODIFIED="1634828513100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_the_Store_Name__arrow_for_dropdown_and_timing.rcov" NAME="Scenario: Verify the Store Name, arrow for dropdown and timing Coverage Results" MODIFIED="1637318758095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />

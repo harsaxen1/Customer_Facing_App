@@ -1,30 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="89dd6eb4-42a4-428a-837e-039d5487baf2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/features/dashboard _component.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/dashboard _component.feature" afterDir="false" />
-    </list>
+    <list default="true" id="89dd6eb4-42a4-428a-837e-039d5487baf2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/features/step_definitions/dashboard_component.rb" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1zo4Qv0Q64mffNXDWE3VWNHGH6c" />
   <component name="ProjectViewState">
@@ -35,31 +16,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Praveen/Customer_Facing_App" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\prab2\Desktop\Android.automation-new\features\support" />
+      <recent name="C:\Users\harsaxen1\Desktop\Android.automation\features\support" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\prab2\Desktop\Android.automation-new\features\support" />
+      <recent name="C:\Users\harsaxen1\Desktop\Android.automation\features\support\feature_files" />
     </key>
   </component>
-  <component name="RubyModuleManagerSettings">
-    <option name="blackListedRootsPaths">
-      <list>
-        <option value="$PROJECT_DIR$" />
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Cucumber.dashboard _component.feature">
-    <configuration name="Scenario: Launch the Application and verify we landed on Homepage (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+  <component name="RunManager" selected="Cucumber.Scenario: As a user, when I tap on PCP, I should be able to see PCP web view (1)">
+    <configuration name="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -72,15 +42,15 @@
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/dashboard _component.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/ProductCategoryPage.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Launch the Application and verify we landed on Homepage$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^As a user\, when I tap on PCP\, I should be able to see PCP web view$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -93,7 +63,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method v="2" />
     </configuration>
-    <configuration name="Scenario: Launch the Application and verify we landed on Homepage" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration name="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -106,15 +76,15 @@
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/dashboard _component.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/ProductCategoryPage.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Launch the Application and verify we landed on Homepage$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^As a user\, when I tap on PCP\, I should be able to see PCP web view$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -127,7 +97,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method v="2" />
     </configuration>
-    <configuration name="Scenario: Verify Tertiary navigation (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration name="Scenario: User views Hot Topics bar and scroll and tap on any one and open web view (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -140,15 +110,15 @@
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/dashboard _component.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/HotTopicsBar.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Verify Tertiary navigation$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^User views Hot Topics bar and scroll and tap on any one and open web view$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -161,7 +131,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method v="2" />
     </configuration>
-    <configuration name="Scenario: Verify Tertiary navigation (2)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration name="Scenario: User views Hot Topics bar and scroll and tap on any one and open web view" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -174,15 +144,15 @@
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/dashboard _component.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/HotTopicsBar.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Verify Tertiary navigation$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^User views Hot Topics bar and scroll and tap on any one and open web view$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -195,7 +165,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method v="2" />
     </configuration>
-    <configuration name="dashboard _component.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration name="Scenario: When I launch the application, Homepage should be displayed" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -208,15 +178,15 @@
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/dashboard _component.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/HomePage_Landing.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^When I launch the application\, Homepage should be displayed$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -231,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber.dashboard _component.feature" />
-        <item itemvalue="Cucumber.Scenario: Launch the Application and verify we landed on Homepage (1)" />
-        <item itemvalue="Cucumber.Scenario: Launch the Application and verify we landed on Homepage" />
-        <item itemvalue="Cucumber.Scenario: Verify Tertiary navigation (2)" />
-        <item itemvalue="Cucumber.Scenario: Verify Tertiary navigation (1)" />
+        <item itemvalue="Cucumber.Scenario: As a user, when I tap on PCP, I should be able to see PCP web view (1)" />
+        <item itemvalue="Cucumber.Scenario: User views Hot Topics bar and scroll and tap on any one and open web view (1)" />
+        <item itemvalue="Cucumber.Scenario: User views Hot Topics bar and scroll and tap on any one and open web view" />
+        <item itemvalue="Cucumber.Scenario: As a user, when I tap on PCP, I should be able to see PCP web view" />
+        <item itemvalue="Cucumber.Scenario: When I launch the application, Homepage should be displayed" />
       </list>
     </recent_temporary>
   </component>
@@ -261,35 +231,12 @@
       <workItem from="1635841760719" duration="478000" />
       <workItem from="1635930290963" duration="5191000" />
       <workItem from="1636358390036" duration="208000" />
-      <workItem from="1636358612850" duration="12438000" />
-      <workItem from="1637062906603" duration="707000" />
-      <workItem from="1637068870835" duration="1352000" />
-      <workItem from="1637070374588" duration="47000" />
-      <workItem from="1637070424795" duration="1376000" />
-      <workItem from="1637072137384" duration="976000" />
-      <workItem from="1637078842299" duration="2119000" />
-      <workItem from="1637081622407" duration="2299000" />
-      <workItem from="1637085586739" duration="1467000" />
-      <workItem from="1637088433277" duration="3154000" />
-      <workItem from="1637152479136" duration="6994000" />
-      <workItem from="1637228515716" duration="1478000" />
-      <workItem from="1637230008322" duration="2054000" />
-      <workItem from="1637256894379" duration="9048000" />
-      <workItem from="1637267419778" duration="10000" />
-      <workItem from="1637301907062" duration="14758000" />
-      <workItem from="1637325428391" duration="605000" />
-      <workItem from="1637345140610" duration="5417000" />
-      <workItem from="1637564698140" duration="73000" />
-      <workItem from="1637564802899" duration="13624000" />
-      <workItem from="1637645002096" duration="20207000" />
-      <workItem from="1637694946490" duration="1912000" />
-      <workItem from="1637734494346" duration="656000" />
-      <workItem from="1637740059085" duration="657000" />
-      <workItem from="1637842687498" duration="1935000" />
-      <workItem from="1637868987487" duration="1304000" />
-      <workItem from="1637903911791" duration="1203000" />
-      <workItem from="1637919789247" duration="4434000" />
-      <workItem from="1637928736125" duration="9000" />
+      <workItem from="1636358612850" duration="49179000" />
+      <workItem from="1637650678007" duration="8577000" />
+      <workItem from="1637666451784" duration="3781000" />
+      <workItem from="1637822128664" duration="1935000" />
+      <workItem from="1637843333110" duration="5954000" />
+      <workItem from="1637906248892" duration="7862000" />
     </task>
     <servers />
   </component>
@@ -297,75 +244,46 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__4_.rcov" NAME="@conversions: I should be able to open My conversions screen (4) Coverage Results" MODIFIED="1634823741180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Persistent_Navigation___User_is_able_to_tap_on_any_icon_from_anywhere__1_.rcov" NAME="Scenario: Verify Persistent Navigation : User is able to tap on any icon from anywhere (1) Coverage Results" MODIFIED="1637661239757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__2_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (2) Coverage Results" MODIFIED="1636358448790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Search_bar_is_available__user_is_able_to_enter_text__1_.rcov" NAME="Scenario: Verify Search bar is available, user is able to enter text (1) Coverage Results" MODIFIED="1637259454888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Order_pickup__3_.rcov" NAME="Scenario: Verify Order pickup (3) Coverage Results" MODIFIED="1637305630416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Search_bar_is_available__user_is_able_to_enter_text__5_.rcov" NAME="Scenario: Verify Search bar is available, user is able to enter text (5) Coverage Results" MODIFIED="1637259324531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_all_4_secondary_services__1_.rcov" NAME="Scenario: Verify all 4 secondary services (1) Coverage Results" MODIFIED="1637664988517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__1_.rcov" NAME="@conversions: I should be able to open My conversions screen (1) Coverage Results" MODIFIED="1635931905602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__2_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (2) Coverage Results" MODIFIED="1637093048629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Welcome_message_on_Dashboard__3_.rcov" NAME="Scenario: Verify Welcome message on Dashboard (3) Coverage Results" MODIFIED="1637676643961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Welcome_message_on_Dashboard__4_.rcov" NAME="Scenario: Verify Welcome message on Dashboard (4) Coverage Results" MODIFIED="1637676699471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation@_default__Default_values_on_Home_screen_is_Foot_and_Centimeter.rcov" NAME="@default: Default values on Home screen is Foot and Centimeter Coverage Results" MODIFIED="1637063075071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_all_4_secondary_services__4_.rcov" NAME="Scenario: Verify all 4 secondary services (4) Coverage Results" MODIFIED="1637585200095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__5_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (5) Coverage Results" MODIFIED="1637062954614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Search_bar_is_available__user_is_able_to_enter_text__2_.rcov" NAME="Scenario: Verify Search bar is available, user is able to enter text (2) Coverage Results" MODIFIED="1637259528872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_the_Store_Name__arrow_for_dropdown_and_timing__2_.rcov" NAME="Scenario: Verify the Store Name, arrow for dropdown and timing (2) Coverage Results" MODIFIED="1637262519765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Tertiary_navigation__5_.rcov" NAME="Scenario: Verify Tertiary navigation (5) Coverage Results" MODIFIED="1637659173996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__5_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (5) Coverage Results" MODIFIED="1637083957382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen.rcov" NAME="@conversions: I should be able to open My conversions screen Coverage Results" MODIFIED="1635930679682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu Coverage Results" MODIFIED="1637061055547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Search_bar_is_available__user_is_able_to_enter_text__4_.rcov" NAME="Scenario: Verify Search bar is available, user is able to enter text (4) Coverage Results" MODIFIED="1637258770696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed Coverage Results" MODIFIED="1637061239910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__3_.rcov" NAME="@conversions: I should be able to open My conversions screen (3) Coverage Results" MODIFIED="1635933100727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Account_Page__3_.rcov" NAME="Scenario: Verify Account Page (3) Coverage Results" MODIFIED="1637651780355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Tertiary_navigation__2_.rcov" NAME="Scenario: Verify Tertiary navigation (2) Coverage Results" MODIFIED="1637676918041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Order_pickup__2_.rcov" NAME="Scenario: Verify Order pickup (2) Coverage Results" MODIFIED="1637303579503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@dashboard__component_feature.rcov" NAME="dashboard _component.feature Coverage Results" MODIFIED="1637920108072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__3_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (3) Coverage Results" MODIFIED="1637069673322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_the_Store_Name__arrow_for_dropdown_and_timing__3_.rcov" NAME="Scenario: Verify the Store Name, arrow for dropdown and timing (3) Coverage Results" MODIFIED="1637263146793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__When_I_launch_the_application__Homepage_should_be_displayed.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed Coverage Results" MODIFIED="1637153085145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Welcome_message_on_Dashboard__2_.rcov" NAME="Scenario: Verify Welcome message on Dashboard (2) Coverage Results" MODIFIED="1637676558935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__3_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (3) Coverage Results" MODIFIED="1636358616157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__1_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (1) Coverage Results" MODIFIED="1637092970001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_all_4_secondary_services__3_.rcov" NAME="Scenario: Verify all 4 secondary services (3) Coverage Results" MODIFIED="1637665271298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Search_bar_is_available__user_is_able_to_enter_text__3_.rcov" NAME="Scenario: Verify Search bar is available, user is able to enter text (3) Coverage Results" MODIFIED="1637258460750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__4_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (4) Coverage Results" MODIFIED="1636358750808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Launch_the_Application_and_verify_we_landed_on_Homepage__1_.rcov" NAME="Scenario: Launch the Application and verify we landed on Homepage (1) Coverage Results" MODIFIED="1637869179899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__4_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (4) Coverage Results" MODIFIED="1637153193408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Tertiary_navigation__3_.rcov" NAME="Scenario: Verify Tertiary navigation (3) Coverage Results" MODIFIED="1637658929020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Account_Page__4_.rcov" NAME="Scenario: Verify Account Page (4) Coverage Results" MODIFIED="1637651842296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Account_Page__1_.rcov" NAME="Scenario: Verify Account Page (1) Coverage Results" MODIFIED="1637652141110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Search_bar_is_available__user_is_able_to_enter_text.rcov" NAME="Scenario: Verify Search bar is available, user is able to enter text Coverage Results" MODIFIED="1637259358760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Order_pickup__1_.rcov" NAME="Scenario: Verify Order pickup (1) Coverage Results" MODIFIED="1637303358655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Tertiary_navigation.rcov" NAME="Scenario: Verify Tertiary navigation Coverage Results" MODIFIED="1637676799199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__2_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (2) Coverage Results" MODIFIED="1637069450411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Persistent_Navigation___User_is_able_to_tap_on_any_icon_from_anywhere__3_.rcov" NAME="Scenario: Verify Persistent Navigation : User is able to tap on any icon from anywhere (3) Coverage Results" MODIFIED="1637661426185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_all_4_secondary_services__2_.rcov" NAME="Scenario: Verify all 4 secondary services (2) Coverage Results" MODIFIED="1637665184342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation@main_menu_feature.rcov" NAME="main_menu.feature Coverage Results" MODIFIED="1637061369701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Order_pickup.rcov" NAME="Scenario: Verify Order pickup Coverage Results" MODIFIED="1637321804307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Welcome_message_on_Dashboard__1_.rcov" NAME="Scenario: Verify Welcome message on Dashboard (1) Coverage Results" MODIFIED="1637676413651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Tertiary_navigation__4_.rcov" NAME="Scenario: Verify Tertiary navigation (4) Coverage Results" MODIFIED="1637658987841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_all_4_secondary_services.rcov" NAME="Scenario: Verify all 4 secondary services Coverage Results" MODIFIED="1637664913462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_the_Store_Name__arrow_for_dropdown_and_timing__1_.rcov" NAME="Scenario: Verify the Store Name, arrow for dropdown and timing (1) Coverage Results" MODIFIED="1637262203738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Order_pickup__4_.rcov" NAME="Scenario: Verify Order pickup (4) Coverage Results" MODIFIED="1637305894168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Launch_the_Application_and_verify_we_landed_on_Homepage.rcov" NAME="Scenario: Launch the Application and verify we landed on Homepage Coverage Results" MODIFIED="1637869138519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Account_Page__5_.rcov" NAME="Scenario: Verify Account Page (5) Coverage Results" MODIFIED="1637651902547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PCP__I_should_be_able_to_see_PCP_web_view.rcov" NAME="Scenario: As a User, on Tapping on PCP, I should be able to see PCP web view Coverage Results" MODIFIED="1637823492187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__5_.rcov" NAME="@conversions: I should be able to open My conversions screen (5) Coverage Results" MODIFIED="1634828513100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_the_Store_Name__arrow_for_dropdown_and_timing.rcov" NAME="Scenario: Verify the Store Name, arrow for dropdown and timing Coverage Results" MODIFIED="1637318758095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Persistent_Navigation___User_is_able_to_tap_on_any_icon_from_anywhere.rcov" NAME="Scenario: Verify Persistent Navigation : User is able to tap on any icon from anywhere Coverage Results" MODIFIED="1637661194598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__5_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (5) Coverage Results" MODIFIED="1636358809730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_all_4_secondary_services__5_.rcov" NAME="Scenario: Verify all 4 secondary services (5) Coverage Results" MODIFIED="1637585396247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_user__when_I_tap_on_PCP__I_should_be_able_to_see_PCP_web_view.rcov" NAME="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view Coverage Results" MODIFIED="1637849453668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__1_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (1) Coverage Results" MODIFIED="1637237645692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed Coverage Results" MODIFIED="1637849415348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__3_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (3) Coverage Results" MODIFIED="1637237389828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__3_.rcov" NAME="@conversions: I should be able to open My conversions screen (3) Coverage Results" MODIFIED="1635933100727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@ProductLandingPage_feature.rcov" NAME="ProductLandingPage.feature Coverage Results" MODIFIED="1637657582012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_user__when_I_tap_on_PCP__I_should_be_able_to_see_PCP_web_view__2_.rcov" NAME="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view (2) Coverage Results" MODIFIED="1637848640406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view__3_.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view (3) Coverage Results" MODIFIED="1637668009419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__User_views_Hot_Topics_bar_and_scroll_and_tap_on_any_one_and_open_web_view__1_.rcov" NAME="Scenario: User views Hot Topics bar and scroll and tap on any one and open web view (1) Coverage Results" MODIFIED="1637916339784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__5_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (5) Coverage Results" MODIFIED="1637223504903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen.rcov" NAME="@conversions: I should be able to open My conversions screen Coverage Results" MODIFIED="1635930679682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__1_.rcov" NAME="@conversions: I should be able to open My conversions screen (1) Coverage Results" MODIFIED="1635931905602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view__2_.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view (2) Coverage Results" MODIFIED="1637667875809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__4_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (4) Coverage Results" MODIFIED="1636358750808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__2_.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page (2) Coverage Results" MODIFIED="1637655700967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__5_.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page (5) Coverage Results" MODIFIED="1637656969763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__1_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (1) Coverage Results" MODIFIED="1636358395039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__3_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (3) Coverage Results" MODIFIED="1637093983781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Account_Page.rcov" NAME="Scenario: Verify Account Page Coverage Results" MODIFIED="1637659597608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Tertiary_navigation__1_.rcov" NAME="Scenario: Verify Tertiary navigation (1) Coverage Results" MODIFIED="1637676865908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Welcome_message_on_Dashboard.rcov" NAME="Scenario: Verify Welcome message on Dashboard Coverage Results" MODIFIED="1637676343606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Account_Page__2_.rcov" NAME="Scenario: Verify Account Page (2) Coverage Results" MODIFIED="1637654220060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__1_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (1) Coverage Results" MODIFIED="1637068912225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Android_automation_new@Scenario__Verify_Persistent_Navigation___User_is_able_to_tap_on_any_icon_from_anywhere__2_.rcov" NAME="Scenario: Verify Persistent Navigation : User is able to tap on any icon from anywhere (2) Coverage Results" MODIFIED="1637661272780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view__5_.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view (5) Coverage Results" MODIFIED="1637668238635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view__4_.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view (4) Coverage Results" MODIFIED="1637668168622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__4_.rcov" NAME="@conversions: I should be able to open My conversions screen (4) Coverage Results" MODIFIED="1634823741180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__3_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (3) Coverage Results" MODIFIED="1636358616157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_user__when_I_tap_on_PDP__I_should_be_able_to_see_PCP_web_view.rcov" NAME="Scenario: As a user, when I tap on PDP, I should be able to see PCP web view Coverage Results" MODIFIED="1637848344380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__User_views_Hot_Topics_bar_and_scroll_and_tap_on_any_one_and_open_web_view.rcov" NAME="Scenario: User views Hot Topics bar and scroll and tap on any one and open web view Coverage Results" MODIFIED="1637850171481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view Coverage Results" MODIFIED="1637849146796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_land_on_Homepage__I_should_be_able_to_see_Dashboard_and_Order_Pickup_Status.rcov" NAME="Scenario: When I land on Homepage, I should be able to see Dashboard and Order Pickup Status Coverage Results" MODIFIED="1637130203005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_user__when_I_tap_on_PCP__I_should_be_able_to_see_PCP_web_view__3_.rcov" NAME="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view (3) Coverage Results" MODIFIED="1637849302789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__2_.rcov" NAME="@conversions: I should be able to open My conversions screen (2) Coverage Results" MODIFIED="1635933039556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__2_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (2) Coverage Results" MODIFIED="1637237194183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_user__when_I_tap_on_PCP__I_should_be_able_to_see_PCP_web_view__1_.rcov" NAME="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view (1) Coverage Results" MODIFIED="1637930410524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__5_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (5) Coverage Results" MODIFIED="1636358809730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__4_.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page (4) Coverage Results" MODIFIED="1637656467310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__4_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (4) Coverage Results" MODIFIED="1637237426141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__3_.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page (3) Coverage Results" MODIFIED="1637656366322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page Coverage Results" MODIFIED="1637845271616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@main_menu_feature.rcov" NAME="main_menu.feature Coverage Results" MODIFIED="1637069955446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__1_.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page (1) Coverage Results" MODIFIED="1637845527561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu Coverage Results" MODIFIED="1637061055547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view__1_.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view (1) Coverage Results" MODIFIED="1637668425713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
   </component>
 </project>

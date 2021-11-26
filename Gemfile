@@ -29,7 +29,7 @@ gem "vault"
 
 # TCS dependencies
 gem "brakeman", require: false
-#gem "bundler-audit", require: false
+gem "bundler-audit", require: false
 gem "flog", require: false
 gem "reek", require: false
 gem "tcs-config"

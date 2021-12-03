@@ -1,27 +1,29 @@
-@dashboard
+
 Feature: Verify Dashboard component, user able to use the Dashboard
 
+  @sanity @wip
   Scenario:	Launch the Application and verify we landed on Homepage
     Given I land on Home screen
 
-    @wip
+  @sanity @wip
   Scenario: Verify Search bar is available, user is able to enter text
     Given I land on Home screen
     Then  I click on Search Bar and the Keypad will open
     And   I will search for "Kitchen Storage"
     Then  I click on Enter in Keypad for Search
 
-      @welcome
+
   Scenario: Verify Welcome message on Dashboard
     Given I land on Home screen
     Then  I Verify "Welcome" message
 
-        @store
+
   Scenario: Verify the Store Name, arrow for dropdown and timing
     Given I land on Home screen
     Then I Verify the Store Name "The San Francisco Store"
     When  I click on arrow for dropdown
     Then I Verify the Timing "Open until 8pm today"
+
 
   Scenario: Verify Order pickup
     Given I land on Home screen
@@ -48,6 +50,7 @@ Feature: Verify Dashboard component, user able to use the Dashboard
     And   I Verify Special Financing Icon is Tappable and I land on the page
     And   I Verify Special Financing Arrow is Tappable and I land on the page
 
+
   Scenario: Verify Tertiary navigation
     Given I land on Home screen
     Then  I Verify the container store logo
@@ -68,6 +71,7 @@ Feature: Verify Dashboard component, user able to use the Dashboard
 #    And   I Click on First Name so that keypad will open
 #    Then  I Send text to First Name "Praveen"
 
+  @sanity @wip
   Scenario: Verify Persistent Navigation : User is able to tap on any icon from anywhere
     Given I land on Home screen
     Then I verify Account by clicking on it from Shop Page

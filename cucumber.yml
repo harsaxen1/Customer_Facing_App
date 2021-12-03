@@ -1,3 +1,3 @@
 dashboard: --tags @dashboard --format html --out report.html --format pretty
 
-any: -t  @welcome,@store --format html --out report.html --format pretty
+any: -t  @sanity -t @wip --format html --out report.html --format pretty

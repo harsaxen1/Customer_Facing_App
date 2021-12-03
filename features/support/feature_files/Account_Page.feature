@@ -1,5 +1,7 @@
+
 Feature: As a User, I want to Create Account
 
+  @sanity @wip
   Scenario: On Create Account screen, When I enter all details - I should be able to see Success page
     Given I land on Account page
     When I tap on Create Account button

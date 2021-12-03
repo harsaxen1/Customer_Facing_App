@@ -1,3 +1,4 @@
+@sanity
 Feature: User should be able to visit the PLP web view by tapping on the button in app
 
   Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view

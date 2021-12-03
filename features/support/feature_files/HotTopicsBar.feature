@@ -1,3 +1,4 @@
+@sanity
 Ability: User should be able to see Hot topics bar & should have ability to scroll through it and open a webview
 
   Scenario: User views Hot Topics bar and scroll and tap on any one and open web view

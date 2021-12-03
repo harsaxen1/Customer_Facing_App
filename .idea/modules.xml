@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Android.automation.iml" filepath="$PROJECT_DIR$/.idea/Android.automation.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Mobius/.idea/Mobius.iml" filepath="$USER_HOME$/Desktop/Mobius/.idea/Mobius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QA-Auto-Cucumber.iml" filepath="$PROJECT_DIR$/.idea/modules/QA-Auto-Cucumber.iml" />
     </modules>
   </component>
 </project>

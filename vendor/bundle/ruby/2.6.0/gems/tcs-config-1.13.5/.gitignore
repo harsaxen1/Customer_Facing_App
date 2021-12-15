@@ -1,0 +1,15 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+/Gemfile.lock
+
+# Ignore RubyMine
+/.idea
+
+# Ignore mac files
+.DS_Store

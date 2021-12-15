@@ -1,0 +1,7 @@
+inherit_gem:
+  tcs-rubocop:
+    - default.yml
+
+AllCops:
+  Exclude:
+    - bin/*

@@ -1,7 +1,7 @@
 
 Given(/^I land on Home screen$/) do
   sleep 3
-  find_element(xpath: "//*[contains(@text, 'Services')]")
+  find_element(xpath: "//*[contains(@text, 'Welcome')]")
 
 
 end

@@ -4,7 +4,7 @@ def caps
 { caps: {
     deviceName: "Anyname",
     platformName: "Android",
-    app: (File.join(File.dirname(__FILE__), "app_automation.apk")),
+    app: (File.join(File.dirname(__FILE__), "app-dev-release.apk")),
     # appPackage: "com.tcs",
     # appActivity: "MainActivity",
     # newCommandTimeout: "3600"

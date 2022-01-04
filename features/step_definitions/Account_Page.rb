@@ -47,3 +47,4 @@ And(/^I verify "([^"]*)" message is displayed$/) do |msg|
     fail("Expected message is #{msg}, actual message is #{wc_message}")
   end
 end
+

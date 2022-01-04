@@ -1,0 +1,6 @@
+# frozen_string_literal: true
+
+source "http://nexus.containerstore.com/nexus/repository/rubygems-group"
+
+# Specify your gem's dependencies in tcs-config.gemspec
+gemspec

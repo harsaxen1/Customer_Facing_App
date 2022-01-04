@@ -1,5 +1,5 @@
 Then(/^I see "([^"]*)" message as a Guest User$/) do |msg|
-  wc_msg = (find_element(xpath: "(//android.widget.TextView[@resource-id = 'welcomeHeaderGreeting'])")).text
+  wc_msg = (find_element(xpath: "(//android.widget.TextView[@text = 'welcomeHeaderGreeting'])")).text
   if wc_msg != msg
     fail("Expected message is #{msg}, actual message is #{wc_msg}")
   end

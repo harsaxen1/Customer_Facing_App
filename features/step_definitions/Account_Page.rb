@@ -48,6 +48,7 @@ And(/^I verify "([^"]*)" message is displayed$/) do |msg|
   end
 end
 
+<<<<<<< HEAD
 And(/^I click on My Profile in Account Page$/) do
   (find_element(xpath: "(//android.widget.TextView[@text = 'My Profile'])")).click
 end
@@ -108,3 +109,5 @@ end
 Then(/^I tap on Save and lands back on profile page$/) do
   (find_element(xpath: "(//android.widget.TextView[@text = 'SAVE'])")).click
 end
+=======
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a

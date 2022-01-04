@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Android.automation.iml" filepath="$PROJECT_DIR$/.idea/Android.automation.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/Mobius/.idea/Mobius.iml" filepath="$USER_HOME$/Desktop/Mobius/.idea/Mobius.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/activesupport-4.0.0.iml" filepath="$PROJECT_DIR$/.idea/modules/activesupport-4.0.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/activesupport-4.1.0.iml" filepath="$PROJECT_DIR$/.idea/modules/activesupport-4.1.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/activesupport-4.1.01.iml" filepath="$PROJECT_DIR$/.idea/modules/activesupport-4.1.01.iml" />
@@ -62,6 +63,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/unf_ext-0.0.7.7.iml" filepath="$PROJECT_DIR$/.idea/modules/unf_ext-0.0.7.7.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/unpatched_gems.iml" filepath="$PROJECT_DIR$/.idea/modules/unpatched_gems.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/unpatched_gems_with_dot_configuration.iml" filepath="$PROJECT_DIR$/.idea/modules/unpatched_gems_with_dot_configuration.iml" />
+=======
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
     </modules>
   </component>
 </project>

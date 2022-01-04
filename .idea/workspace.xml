@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="89dd6eb4-42a4-428a-837e-039d5487baf2" name="Changes" comment="Sprint 3.6 - Praveen" />
+=======
+    <list default="true" id="89dd6eb4-42a4-428a-837e-039d5487baf2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/support/feature_files/FAQ_Page.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/support/feature_files/FAQ_Page.feature" afterDir="false" />
+    </list>
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +29,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/features/step_definitions/ProductCategoryPage.rb" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/features/step_definitions/HomePage_Landing.rb" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/features/step_definitions/HotTopicsBar.rb" root0="FORCE_HIGHLIGHTING" />
@@ -29,6 +37,10 @@
     <setting file="file://$PROJECT_DIR$/features/support/feature_files/FAQ_Page.feature" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Gemfile" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/features/support/feature_files/Web_View's/accountPage_webViews/webView_accessibilityStatement.feature" root0="FORCE_HIGHLIGHTING" />
+=======
+    <setting file="file://$PROJECT_DIR$/features/support/feature_files/MyAccountLandingPage.feature" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gemfile.lock" root0="FORCE_HIGHLIGHTING" />
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,6 +55,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -50,20 +63,40 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+=======
+
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/features/support" />
       <recent name="C:\Users\harsaxen1\Desktop\Android.automation\features\support" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="$PROJECT_DIR$/features/support/feature_files" />
       <recent name="$PROJECT_DIR$/features/support/feature_files/Web_View's/accountPage_webViews" />
+=======
+      <recent name="C:\Users\rakmangh\Documents\GitHub\Customer_Facing_App\features\support" />
+      <recent name="C:\Users\rakmangh\Documents\GitHub\Customer_Facing_App\features\support\feature_files" />
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <recent name="C:\Users\harsaxen1\Documents\GitHub\Customer_Facing_App\features\support\feature_files" />
       <recent name="C:\Users\harsaxen1\Desktop\Android.automation\features\support\feature_files" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Cucumber.Scenario: Verify Web View - View Saved Addresses">
     <configuration name="@sanity: Launch the Application and verify we landed on Homepage" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+=======
+
+  <component name="RunManager" selected="Cucumber.Scenario Outline: I should be able to tap on Contact Us and see Contact Us webpage (1)">
+    <configuration name="Scenario Outline: I should be able to tap on Accessibility statement and see Accessibility statement webpage" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -76,19 +109,33 @@
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+<<<<<<< HEAD
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+=======
+
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+<<<<<<< HEAD
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/dashboard _component.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="Launch the Application and verify we landed on Homepage" />
+=======
+
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/Accessiblity_statement.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^I should be able to tap on Accessibility statement and see Accessibility statement webpage$" />
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -101,7 +148,13 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Scenario: Verify Accessibility statement Webpage" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+=======
+
+    <configuration name="Scenario Outline: I should be able to tap on Contact Us and see Contact Us webpage (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -114,19 +167,33 @@
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+<<<<<<< HEAD
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+=======
+
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+<<<<<<< HEAD
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/Web_View's/accountPage_webViews/webView_accessibilityStatement.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="Verify Accessibility statement Webpage" />
+=======
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/Contact_Us.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^I should be able to tap on Contact Us and see Contact Us webpage$" />
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -139,7 +206,13 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Scenario: Verify Cart Page - Webpage" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+=======
+
+    <configuration name="Scenario Outline: I should be able to tap on Contact Us and see Contact Us webpage" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -152,19 +225,33 @@
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+<<<<<<< HEAD
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+=======
+
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+<<<<<<< HEAD
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/Web_View's/cartPage_webViews/webView_cartPage.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="Verify Cart Page - Webpage" />
+=======
+
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/Contact_Us.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^I should be able to tap on Contact Us and see Contact Us webpage$" />
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -177,7 +264,13 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Scenario: Verify My Designs Page Webpage" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+=======
+
+    <configuration name="Scenario Outline: I should be able to tap on Email Preferences and see Email Preferences webpage (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -190,19 +283,33 @@
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+<<<<<<< HEAD
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+=======
+
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+<<<<<<< HEAD
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/Web_View's/accountPage_webViews/webView_myDesignsPage.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="Verify My Designs Page Webpage" />
+=======
+
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/Email_Preferences.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^I should be able to tap on Email Preferences and see Email Preferences webpage$" />
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -215,7 +322,13 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Scenario: Verify Web View - View Saved Addresses" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+=======
+
+    <configuration name="Scenario Outline: I should be able to tap on Email Preferences and see Email Preferences webpage" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -228,19 +341,33 @@
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+<<<<<<< HEAD
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+=======
+
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+<<<<<<< HEAD
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/Web_View's/accountPage_webViews/webView_viewSavedAddresses.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="Verify Web View - View Saved Addresses" />
+=======
+
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/Email_Preferences.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^I should be able to tap on Email Preferences and see Email Preferences webpage$" />
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -255,11 +382,21 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Cucumber.Scenario: Verify Web View - View Saved Addresses" />
         <item itemvalue="Cucumber.Scenario: Verify My Designs Page Webpage" />
         <item itemvalue="Cucumber.@sanity: Launch the Application and verify we landed on Homepage" />
         <item itemvalue="Cucumber.Scenario: Verify Accessibility statement Webpage" />
         <item itemvalue="Cucumber.Scenario: Verify Cart Page - Webpage" />
+=======
+
+        <item itemvalue="Cucumber.Scenario Outline: I should be able to tap on Contact Us and see Contact Us webpage (1)" />
+        <item itemvalue="Cucumber.Scenario Outline: I should be able to tap on Email Preferences and see Email Preferences webpage (1)" />
+        <item itemvalue="Cucumber.Scenario Outline: I should be able to tap on Accessibility statement and see Accessibility statement webpage" />
+        <item itemvalue="Cucumber.Scenario Outline: I should be able to tap on Email Preferences and see Email Preferences webpage" />
+        <item itemvalue="Cucumber.Scenario Outline: I should be able to tap on Contact Us and see Contact Us webpage" />
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
       </list>
     </recent_temporary>
   </component>
@@ -297,6 +434,7 @@
       <workItem from="1638379479712" duration="15000" />
       <workItem from="1638379537436" duration="4220000" />
       <workItem from="1638470149530" duration="2845000" />
+<<<<<<< HEAD
       <workItem from="1638985028491" duration="974000" />
       <workItem from="1638986266628" duration="528000" />
       <workItem from="1638987206571" duration="5632000" />
@@ -319,6 +457,30 @@
       <workItem from="1641237864662" duration="533000" />
       <workItem from="1641276803375" duration="3572000" />
       <workItem from="1641288810916" duration="2276000" />
+=======
+
+      <workItem from="1639125539700" duration="695000" />
+      <workItem from="1639126732425" duration="2659000" />
+      <workItem from="1639134861976" duration="633000" />
+      <workItem from="1639393607862" duration="11864000" />
+      <workItem from="1639444582771" duration="4266000" />
+      <workItem from="1639493571513" duration="3491000" />
+      <workItem from="1639550870354" duration="38000" />
+      <workItem from="1639573746386" duration="964000" />
+      <workItem from="1639576871395" duration="5759000" />
+      <workItem from="1639665368075" duration="355000" />
+      <workItem from="1639666013078" duration="5836000" />
+      <workItem from="1639728346209" duration="5755000" />
+      <workItem from="1639752247435" duration="4374000" />
+      <workItem from="1639982036349" duration="2075000" />
+      <workItem from="1639987169272" duration="10000" />
+      <workItem from="1640874549909" duration="908000" />
+      <workItem from="1640875643417" duration="1183000" />
+      <workItem from="1640934480331" duration="1902000" />
+      <workItem from="1641219925389" duration="1844000" />
+      <workItem from="1641279244779" duration="5426000" />
+
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
     </task>
     <task id="LOCAL-00001" summary="Sprint 3.6 - Praveen">
       <created>1641290466035</created>
@@ -350,6 +512,7 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sprint 3.6 - Praveen" />
@@ -398,12 +561,90 @@
     <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__As_a_user__when_I_tap_on_PCP__I_should_be_able_to_see_PCP_web_view.rcov" NAME="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view Coverage Results" MODIFIED="1638279861006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view__2_.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view (2) Coverage Results" MODIFIED="1637667875809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__5_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (5) Coverage Results" MODIFIED="1637223504903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+=======
+
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__As_a_user__when_I_tap_on_PCP__I_should_be_able_to_see_PCP_web_view.rcov" NAME="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view Coverage Results" MODIFIED="1638279861006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__5_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (5) Coverage Results" MODIFIED="1637223504903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__I_should_be_able_to_tap_on_FAQ_and_see_FAQ_webpage.rcov" NAME="Scenario: I should be able to tap on FAQ and see FAQ webpage Coverage Results" MODIFIED="1639130572859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__2_.rcov" NAME="@conversions: I should be able to open My conversions screen (2) Coverage Results" MODIFIED="1635933039556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__I_should_be_able_to_tap_on_FAQ_and_see_FAQ_webpage__2_.rcov" NAME="Scenario: I should be able to tap on FAQ and see FAQ webpage (2) Coverage Results" MODIFIED="1639130646502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario_Outline__I_should_be_able_to_tap_on_Contact_Us_and_see_Contact_Us_webpage.rcov" NAME="Scenario Outline: I should be able to tap on Contact Us and see Contact Us webpage Coverage Results" MODIFIED="1640934799636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen.rcov" NAME="@conversions: I should be able to open My conversions screen Coverage Results" MODIFIED="1635930679682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@_sanity__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__2_.rcov" NAME="@sanity: On Create Account screen, When I enter all details - I should be able to see Success page (2) Coverage Results" MODIFIED="1638279755055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view__2_.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view (2) Coverage Results" MODIFIED="1637667875809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario_Outline__I_should_be_able_to_tap_on_Contact_Us_and_see_Contact_Us_webpage__3_.rcov" NAME="Scenario Outline: I should be able to tap on Contact Us and see Contact Us webpage (3) Coverage Results" MODIFIED="1640874904590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@_sanity__Launch_the_Application_and_verify_we_landed_on_Homepage.rcov" NAME="@sanity: Launch the Application and verify we landed on Homepage Coverage Results" MODIFIED="1640876505040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__3_.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page (3) Coverage Results" MODIFIED="1637656366322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_user__when_I_tap_on_PCP__I_should_be_able_to_see_PCP_web_view__2_.rcov" NAME="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view (2) Coverage Results" MODIFIED="1637848640406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__1_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (1) Coverage Results" MODIFIED="1637237645692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__2_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (2) Coverage Results" MODIFIED="1636358448790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__I_should_be_able_to_tap_on_Accessibility_statement_and_see_Accessibility_statement_webpage__5_.rcov" NAME="Scenario: I should be able to tap on Accessibility statement and see Accessibility statement webpage (5) Coverage Results" MODIFIED="1639744546102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_user__when_I_tap_on_PCP__I_should_be_able_to_see_PCP_web_view.rcov" NAME="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view Coverage Results" MODIFIED="1637849453668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__User_views_Hot_Topics_bar_and_scroll_and_tap_on_any_one_and_open_web_view__1_.rcov" NAME="Scenario: User views Hot Topics bar and scroll and tap on any one and open web view (1) Coverage Results" MODIFIED="1637916339784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__5_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (5) Coverage Results" MODIFIED="1636358809730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario_Outline__I_should_be_able_to_tap_on_Contact_Us_and_see_Contact_Us_webpage__4_.rcov" NAME="Scenario Outline: I should be able to tap on Contact Us and see Contact Us webpage (4) Coverage Results" MODIFIED="1640874971844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view__5_.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view (5) Coverage Results" MODIFIED="1637668238635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__I_should_be_able_to_tap_on_Accessibility_statement_and_see_Accessibility_statement_webpage__2_.rcov" NAME="Scenario: I should be able to tap on Accessibility statement and see Accessibility statement webpage (2) Coverage Results" MODIFIED="1639745099784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@_sanity__Launch_the_Application_and_verify_we_landed_on_Homepage__3_.rcov" NAME="@sanity: Launch the Application and verify we landed on Homepage (3) Coverage Results" MODIFIED="1640934754646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed Coverage Results" MODIFIED="1637849415348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__4_.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page (4) Coverage Results" MODIFIED="1637656467310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario_Outline__I_should_be_able_to_tap_on_Email_Preferences_and_see_Email_Preferences_webpage__3_.rcov" NAME="Scenario Outline: I should be able to tap on Email Preferences and see Email Preferences webpage (3) Coverage Results" MODIFIED="1639986573998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__3_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (3) Coverage Results" MODIFIED="1637237389828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_user__when_I_tap_on_PCP__I_should_be_able_to_see_PCP_web_view__3_.rcov" NAME="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view (3) Coverage Results" MODIFIED="1637849302789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PCP__I_should_be_able_to_see_PCP_web_view.rcov" NAME="Scenario: As a User, on Tapping on PCP, I should be able to see PCP web view Coverage Results" MODIFIED="1637823492187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_land_on_Homepage__I_should_be_able_to_see_Dashboard_and_Order_Pickup_Status.rcov" NAME="Scenario: When I land on Homepage, I should be able to see Dashboard and Order Pickup Status Coverage Results" MODIFIED="1637130203005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__As_a_Guest_user__I_should_be_able_to_see_welcome_message.rcov" NAME="Scenario: As a Guest user, I should be able to see welcome message Coverage Results" MODIFIED="1640876282240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__5_.rcov" NAME="@conversions: I should be able to open My conversions screen (5) Coverage Results" MODIFIED="1634828513100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__I_should_be_able_to_tap_on_Accessibility_statement_and_see_Accessibility_statement_webpage__3_.rcov" NAME="Scenario: I should be able to tap on Accessibility statement and see Accessibility statement webpage (3) Coverage Results" MODIFIED="1639741313587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__5_.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page (5) Coverage Results" MODIFIED="1637656969763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Launch_the_Application_and_verify.rcov" NAME="Scenario: Launch the Application and verify Coverage Results" MODIFIED="1640876690381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__I_should_be_able_to_tap_on_Accessibility_statement_and_see_Accessibility_statement_webpage.rcov" NAME="Scenario: I should be able to tap on Accessibility statement and see Accessibility statement webpage Coverage Results" MODIFIED="1639744909918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario_Outline__I_should_be_able_to_tap_on_Email_Preferences_and_see_Email_Preferences_webpage__1_.rcov" NAME="Scenario Outline: I should be able to tap on Email Preferences and see Email Preferences webpage (1) Coverage Results" MODIFIED="1640935421489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@_mobile__Search_a_valid_SKU.rcov" NAME="@mobile: Search a valid SKU Coverage Results" MODIFIED="1638371616017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Mobius/QA-Auto-Cucumber" MODULE_NAME="QA-Auto-Cucumber" />
+    <SUITE FILE_PATH="coverage/Android_automation@main_menu_feature.rcov" NAME="main_menu.feature Coverage Results" MODIFIED="1637069955446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__3_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (3) Coverage Results" MODIFIED="1636358616157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario_Outline__I_should_be_able_to_tap_on_Contact_Us_and_see_Contact_Us_webpage__1_.rcov" NAME="Scenario Outline: I should be able to tap on Contact Us and see Contact Us webpage (1) Coverage Results" MODIFIED="1640935520414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view__1_.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view (1) Coverage Results" MODIFIED="1637668425713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__On_Sign_In_screen__When_I_enter_all_details___I_should_be_able_to_see_Sign_In_Success_Page.rcov" NAME="Scenario: On Sign In screen, When I enter all details - I should be able to see Sign In Success Page Coverage Results" MODIFIED="1639128151210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__User_views_Hot_Topics_bar_and_scroll_and_tap_on_any_one_and_open_web_view.rcov" NAME="Scenario: User views Hot Topics bar and scroll and tap on any one and open web view Coverage Results" MODIFIED="1638279818259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view Coverage Results" MODIFIED="1637849146796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@_sanity__Launch_the_Application_and_verify_we_landed_on_Homepage__2_.rcov" NAME="@sanity: Launch the Application and verify we landed on Homepage (2) Coverage Results" MODIFIED="1640934511083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__1_.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page (1) Coverage Results" MODIFIED="1637845527561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__4_.rcov" NAME="@conversions: I should be able to open My conversions screen (4) Coverage Results" MODIFIED="1634823741180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__4_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (4) Coverage Results" MODIFIED="1637237426141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__1_.rcov" NAME="@conversions: I should be able to open My conversions screen (1) Coverage Results" MODIFIED="1635931905602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario_Outline__I_should_be_able_to_tap_on_Email_Preferences_and_see_Email_Preferences_webpage__4_.rcov" NAME="Scenario Outline: I should be able to tap on Email Preferences and see Email Preferences webpage (4) Coverage Results" MODIFIED="1639986686253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view__4_.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view (4) Coverage Results" MODIFIED="1637668168622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu Coverage Results" MODIFIED="1637061055547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario_Outline__I_should_be_able_to_tap_on_Email_Preferences_and_see_Email_Preferences_webpage.rcov" NAME="Scenario Outline: I should be able to tap on Email Preferences and see Email Preferences webpage Coverage Results" MODIFIED="1640934917399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__I_should_be_able_to_tap_on_Accessibility_statement_and_see_Accessibility_statement_webpage__4_.rcov" NAME="Scenario: I should be able to tap on Accessibility statement and see Accessibility statement webpage (4) Coverage Results" MODIFIED="1639741375135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view__3_.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view (3) Coverage Results" MODIFIED="1637668009419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__4_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (4) Coverage Results" MODIFIED="1636358750808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__3_.rcov" NAME="@conversions: I should be able to open My conversions screen (3) Coverage Results" MODIFIED="1635933100727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario_Outline__I_should_be_able_to_tap_on_Accessibility_statement_and_see_Accessibility_statement_webpage__1_.rcov" NAME="Scenario Outline: I should be able to tap on Accessibility statement and see Accessibility statement webpage (1) Coverage Results" MODIFIED="1640876137514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario_Outline__I_should_be_able_to_tap_on_Email_Preferences_and_see_Email_Preferences_webpage__2_.rcov" NAME="Scenario Outline: I should be able to tap on Email Preferences and see Email Preferences webpage (2) Coverage Results" MODIFIED="1639757611162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_user__when_I_tap_on_PCP__I_should_be_able_to_see_PCP_web_view__1_.rcov" NAME="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view (1) Coverage Results" MODIFIED="1637930410524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__User_views_Hot_Topics_bar_and_scroll_and_tap_on_any_one_and_open_web_view.rcov" NAME="Scenario: User views Hot Topics bar and scroll and tap on any one and open web view Coverage Results" MODIFIED="1637850171481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__2_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (2) Coverage Results" MODIFIED="1637237194183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Launch_the_Application_and_verify_we_landed.rcov" NAME="Scenario: Launch the Application and verify we landed Coverage Results" MODIFIED="1640876646367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@_sanity__Launch_the_Application_and_verify_we_landed_on_Homepage__1_.rcov" NAME="@sanity: Launch the Application and verify we landed on Homepage (1) Coverage Results" MODIFIED="1640934486787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@MyAccountLandingPage_feature.rcov" NAME="MyAccountLandingPage.feature Coverage Results" MODIFIED="1638382886751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@_sanity__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__1_.rcov" NAME="@sanity: On Create Account screen, When I enter all details - I should be able to see Success page (1) Coverage Results" MODIFIED="1638276046055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario_Outline__I_should_be_able_to_tap_on_Contact_Us_and_see_Contact_Us_webpage__2_.rcov" NAME="Scenario Outline: I should be able to tap on Contact Us and see Contact Us webpage (2) Coverage Results" MODIFIED="1640874867719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__1_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (1) Coverage Results" MODIFIED="1636358395039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_user__when_I_tap_on_PDP__I_should_be_able_to_see_PCP_web_view.rcov" NAME="Scenario: As a user, when I tap on PDP, I should be able to see PCP web view Coverage Results" MODIFIED="1637848344380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@ProductLandingPage_feature.rcov" NAME="ProductLandingPage.feature Coverage Results" MODIFIED="1637657582012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page Coverage Results" MODIFIED="1637845271616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Verify_Terms_of_use_Webpage.rcov" NAME="Scenario: Verify Terms of use Webpage Coverage Results" MODIFIED="1639635407414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__2_.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page (2) Coverage Results" MODIFIED="1637655700967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_user__when_I_tap_on_PCP__I_should_be_able_to_see_PCP_web_view__2_.rcov" NAME="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view (2) Coverage Results" MODIFIED="1637848640406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Customer_Facing_App@webView_myDesignsPage_feature.rcov" NAME="webView_myDesignsPage.feature Coverage Results" MODIFIED="1639675046963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Customer_Facing_App@_sanity__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page.rcov" NAME="@sanity: On Create Account screen, When I enter all details - I should be able to see Success page Coverage Results" MODIFIED="1638275984760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Edit_Name_in_profile.rcov" NAME="Scenario: Edit Name in profile Coverage Results" MODIFIED="1639724965638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__2_.rcov" NAME="@conversions: I should be able to open My conversions screen (2) Coverage Results" MODIFIED="1635933039556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__2_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (2) Coverage Results" MODIFIED="1636358448790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
@@ -420,5 +661,11 @@
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view__3_.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view (3) Coverage Results" MODIFIED="1637668009419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__5_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (5) Coverage Results" MODIFIED="1636358809730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Verify_Cart_Page___Webpage.rcov" NAME="Scenario: Verify Cart Page - Webpage Coverage Results" MODIFIED="1641199317584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+=======
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__I_should_be_able_to_tap_on_FAQ_and_see_FAQ_webpage__1_.rcov" NAME="Scenario: I should be able to tap on FAQ and see FAQ webpage (1) Coverage Results" MODIFIED="1639130610177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__I_should_be_able_to_tap_on_Accessibility_statement_and_see_Accessibility_statement_webpage__1_.rcov" NAME="Scenario: I should be able to tap on Accessibility statement and see Accessibility statement webpage (1) Coverage Results" MODIFIED="1639744922648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario_Outline__I_should_be_able_to_tap_on_Accessibility_statement_and_see_Accessibility_statement_webpage.rcov" NAME="Scenario Outline: I should be able to tap on Accessibility statement and see Accessibility statement webpage Coverage Results" MODIFIED="1640935015948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__2_.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page (2) Coverage Results" MODIFIED="1637655700967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+>>>>>>> aeeeba110217f908f0a6809a90f3133830c5c50a
   </component>
 </project>

@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89dd6eb4-42a4-428a-837e-039d5487baf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/features/step_definitions/cartPage.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/support/feature_files/Web_View's/accountPage_webViews/webView_viewSavedAddresses.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/support/feature_files/Web_View's/cartPage_webViews/webView_cartPage.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/step_definitions/webView's.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/step_definitions/webView's.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/support/app-dev-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/features/support/app-dev-release.apk" afterDir="false" />
-    </list>
+    <list default="true" id="89dd6eb4-42a4-428a-837e-039d5487baf2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -325,6 +318,7 @@
       <workItem from="1641198802306" duration="1964000" />
       <workItem from="1641237864662" duration="533000" />
       <workItem from="1641276803375" duration="3572000" />
+      <workItem from="1641288810916" duration="507000" />
     </task>
     <servers />
   </component>

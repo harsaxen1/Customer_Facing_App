@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89dd6eb4-42a4-428a-837e-039d5487baf2" name="Changes" comment="" />
+    <list default="true" id="89dd6eb4-42a4-428a-837e-039d5487baf2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/features/step_definitions/cartPage.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/support/feature_files/Web_View's/accountPage_webViews/webView_viewSavedAddresses.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/support/feature_files/Web_View's/cartPage_webViews/webView_cartPage.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/step_definitions/webView's.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/step_definitions/webView's.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/support/app-dev-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/features/support/app-dev-release.apk" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,20 +56,21 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\harsaxen1\Desktop\Android.automation\features\support" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/features/support/feature_files" />
       <recent name="$PROJECT_DIR$/features/support/feature_files/Web_View's/accountPage_webViews" />
       <recent name="C:\Users\harsaxen1\Documents\GitHub\Customer_Facing_App\features\support\feature_files" />
       <recent name="C:\Users\harsaxen1\Desktop\Android.automation\features\support\feature_files" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber.Scenario: Edit Name in profile">
-    <configuration name="Scenario: Edit Name in profile" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+  <component name="RunManager" selected="Cucumber.Scenario: Verify Web View - View Saved Addresses">
+    <configuration name="@sanity: Launch the Application and verify we landed on Homepage" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -85,9 +93,9 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/accounts_page/editName&amp;Email_inProfile.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/dashboard _component.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="Edit Name in profile" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="Launch the Application and verify we landed on Homepage" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -100,7 +108,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method v="2" />
     </configuration>
-    <configuration name="Scenario: Edit name and email in profile" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration name="Scenario: Verify Accessibility statement Webpage" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -123,9 +131,47 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/accounts_page/editName&amp;Email_inProfile.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/Web_View's/accountPage_webViews/webView_accessibilityStatement.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="Edit name and email in profile" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="Verify Accessibility statement Webpage" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="true" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scenario: Verify Cart Page - Webpage" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <module name="Android.automation" />
+      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/Web_View's/cartPage_webViews/webView_cartPage.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="Verify Cart Page - Webpage" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -176,7 +222,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method v="2" />
     </configuration>
-    <configuration name="Scenario: Verify Terms of use Webpage" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration name="Scenario: Verify Web View - View Saved Addresses" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <module name="Android.automation" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -199,47 +245,9 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/Web_View's/WebView_TermsOfUse.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/Web_View's/accountPage_webViews/webView_viewSavedAddresses.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="Verify Terms of use Webpage" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="true" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <method v="2" />
-    </configuration>
-    <configuration name="webView_myDesignsPage.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <module name="Android.automation" />
-      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="$MODULE_DIR$/features/support/feature_files/Web_View's/accountPage_webViews/webView_myDesignsPage.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="Verify Web View - View Saved Addresses" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -254,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber.Scenario: Edit Name in profile" />
-        <item itemvalue="Cucumber.Scenario: Edit name and email in profile" />
+        <item itemvalue="Cucumber.Scenario: Verify Web View - View Saved Addresses" />
         <item itemvalue="Cucumber.Scenario: Verify My Designs Page Webpage" />
-        <item itemvalue="Cucumber.webView_myDesignsPage.feature" />
-        <item itemvalue="Cucumber.Scenario: Verify Terms of use Webpage" />
+        <item itemvalue="Cucumber.@sanity: Launch the Application and verify we landed on Homepage" />
+        <item itemvalue="Cucumber.Scenario: Verify Accessibility statement Webpage" />
+        <item itemvalue="Cucumber.Scenario: Verify Cart Page - Webpage" />
       </list>
     </recent_temporary>
   </component>
@@ -313,6 +321,10 @@
       <workItem from="1639599461165" duration="171000" />
       <workItem from="1639634794794" duration="10942000" />
       <workItem from="1639719548865" duration="4666000" />
+      <workItem from="1639994136236" duration="15087000" />
+      <workItem from="1641198802306" duration="1964000" />
+      <workItem from="1641237864662" duration="533000" />
+      <workItem from="1641276803375" duration="3572000" />
     </task>
     <servers />
   </component>
@@ -344,9 +356,10 @@
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view Coverage Results" MODIFIED="1637849146796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Edit_name_and_email_in_profile.rcov" NAME="Scenario: Edit name and email in profile Coverage Results" MODIFIED="1639721540588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__3_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (3) Coverage Results" MODIFIED="1637237389828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Demo.rcov" NAME="Scenario: Demo Coverage Results" MODIFIED="1640020911860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Verify_the_Store_Name__arrow_for_dropdown_and_timing.rcov" NAME="Scenario: Verify the Store Name, arrow for dropdown and timing Coverage Results" MODIFIED="1638985741745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__3_.rcov" NAME="@conversions: I should be able to open My conversions screen (3) Coverage Results" MODIFIED="1635933100727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Verify_My_Designs_Page_Webpage.rcov" NAME="Scenario: Verify My Designs Page Webpage Coverage Results" MODIFIED="1639720047796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Verify_My_Designs_Page_Webpage.rcov" NAME="Scenario: Verify My Designs Page Webpage Coverage Results" MODIFIED="1641279609258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__3_.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page (3) Coverage Results" MODIFIED="1637656366322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu Coverage Results" MODIFIED="1637061055547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@ProductLandingPage_feature.rcov" NAME="ProductLandingPage.feature Coverage Results" MODIFIED="1637657582012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
@@ -367,6 +380,7 @@
     <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen.rcov" NAME="@conversions: I should be able to open My conversions screen Coverage Results" MODIFIED="1635930679682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Customer_Facing_App@_sanity__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__1_.rcov" NAME="@sanity: On Create Account screen, When I enter all details - I should be able to see Success page (1) Coverage Results" MODIFIED="1638276046055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Verify_Privacy_Policy_Webpage.rcov" NAME="Scenario: Verify Privacy Policy Webpage Coverage Results" MODIFIED="1639635379648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Verify_Web_View___View_Saved_Addresses.rcov" NAME="Scenario: Verify Web View - View Saved Addresses Coverage Results" MODIFIED="1641280030017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_launch_the_application__Homepage_should_be_displayed__2_.rcov" NAME="Scenario: When I launch the application, Homepage should be displayed (2) Coverage Results" MODIFIED="1637237194183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__As_a_user__when_I_tap_on_PCP__I_should_be_able_to_see_PCP_web_view.rcov" NAME="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view Coverage Results" MODIFIED="1638279861006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view__2_.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view (2) Coverage Results" MODIFIED="1637667875809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
@@ -383,13 +397,15 @@
     <SUITE FILE_PATH="coverage/Customer_Facing_App@webView_accessibilityStatement_feature.rcov" NAME="webView_accessibilityStatement.feature Coverage Results" MODIFIED="1639148609993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__5_.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page (5) Coverage Results" MODIFIED="1637656969763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@_conversions__I_should_be_able_to_open_My_conversions_screen__5_.rcov" NAME="@conversions: I should be able to open My conversions screen (5) Coverage Results" MODIFIED="1634828513100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Verify_Cart_Page.rcov" NAME="Scenario: Verify Cart Page Coverage Results" MODIFIED="1640020568916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PCP__I_should_be_able_to_see_PCP_web_view.rcov" NAME="Scenario: As a User, on Tapping on PCP, I should be able to see PCP web view Coverage Results" MODIFIED="1637823492187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Verify_Accessibility_statement_Webpage.rcov" NAME="Scenario: Verify Accessibility statement Webpage Coverage Results" MODIFIED="1639635349308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Verify_Accessibility_statement_Webpage.rcov" NAME="Scenario: Verify Accessibility statement Webpage Coverage Results" MODIFIED="1641201001075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__On_Create_Account_screen__When_I_enter_all_details___I_should_be_able_to_see_Success_page__1_.rcov" NAME="Scenario: On Create Account screen, When I enter all details - I should be able to see Success page (1) Coverage Results" MODIFIED="1637845527561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_user__when_I_tap_on_PCP__I_should_be_able_to_see_PCP_web_view__1_.rcov" NAME="Scenario: As a user, when I tap on PCP, I should be able to see PCP web view (1) Coverage Results" MODIFIED="1637930410524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
-    <SUITE FILE_PATH="coverage/Customer_Facing_App@_sanity__Launch_the_Application_and_verify_we_landed_on_Homepage.rcov" NAME="@sanity: Launch the Application and verify we landed on Homepage Coverage Results" MODIFIED="1638986392355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@_sanity__Launch_the_Application_and_verify_we_landed_on_Homepage.rcov" NAME="@sanity: Launch the Application and verify we landed on Homepage Coverage Results" MODIFIED="1641238330778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Verify_Welcome_message_on_Dashboard.rcov" NAME="Scenario: Verify Welcome message on Dashboard Coverage Results" MODIFIED="1638987380896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__As_a_User__on_Tapping_on_PLP__I_should_be_able_to_see_PLP_web_view__3_.rcov" NAME="Scenario: As a User, on Tapping on PLP, I should be able to see PLP web view (3) Coverage Results" MODIFIED="1637668009419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
     <SUITE FILE_PATH="coverage/Android_automation@Scenario__When_I_tap_on_menu_icon__I_should_left_side_menu__5_.rcov" NAME="Scenario: When I tap on menu icon, I should left side menu (5) Coverage Results" MODIFIED="1636358809730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
+    <SUITE FILE_PATH="coverage/Customer_Facing_App@Scenario__Verify_Cart_Page___Webpage.rcov" NAME="Scenario: Verify Cart Page - Webpage Coverage Results" MODIFIED="1641199317584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Android.automation" />
   </component>
 </project>
